@@ -1,0 +1,16 @@
+body{
+    background: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    color: red;
+}
+
+.error-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* vh stands for viewport height */
+}
