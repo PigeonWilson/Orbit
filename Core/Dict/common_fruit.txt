@@ -1,0 +1,13 @@
+pomme,
+banane,
+raisin,
+cerise,
+mangue,
+ananas,
+kiwi,
+poire,
+abricot,
+citron,
+lime,
+framboise,
+melon
